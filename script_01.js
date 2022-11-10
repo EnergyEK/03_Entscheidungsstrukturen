@@ -68,5 +68,6 @@ else if(isJohnEqual)
 // gemeinsame Alternative
 else 
 {
-    console.log("John ist jünger."); 
+    console.log("John ist jünger.");
+    
 }
